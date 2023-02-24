@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1676759615 source:d:\m1\moh\courses\amit\embedded systems amit\my codes\second c\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1676760423 source:d:\m1\moh\courses\amit\embedded systems amit\my codes\second c\functions.c
+	<stdio.h>
+	<stdlib.h>
+
